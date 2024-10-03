@@ -184,8 +184,8 @@
 
 ##### Перевести и записать в отчёт: 8 Mbps в MB/s, 100 MB/s в Kbps, 1 Gbps в Mbps.
 - 8 Mbps: 1 MB/s
-- 100 MB/s = 819200 Kbps
-- 1 Gbps = 1024 Mbps
+- 100 MB/s = 800000 Kbps
+- 1 Gbps = 1000 Mbps
 
 ### 3.2. Утилита **iperf3**
 
